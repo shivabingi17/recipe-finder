@@ -1,1 +1,1 @@
- Food Recipe App from scratch using React.js
+ Food Recipe App using React.js
